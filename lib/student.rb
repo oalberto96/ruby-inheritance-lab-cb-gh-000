@@ -10,5 +10,4 @@ class Student < User
     @knowledge << new_knowledge
   end
 
-
 end
